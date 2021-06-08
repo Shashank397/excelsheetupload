@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/excelsheetupload/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/excelsheetupload/static/js/main.e3e1815f.chunk.js",
+    "main.js.map": "/excelsheetupload/static/js/main.e3e1815f.chunk.js.map",
+    "runtime-main.js": "/excelsheetupload/static/js/runtime-main.c01a4955.js",
+    "runtime-main.js.map": "/excelsheetupload/static/js/runtime-main.c01a4955.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/excelsheetupload/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.eb656835.chunk.js": "/excelsheetupload/static/js/2.eb656835.chunk.js",
+    "static/js/2.eb656835.chunk.js.map": "/excelsheetupload/static/js/2.eb656835.chunk.js.map",
+    "static/js/3.da9045ce.chunk.js": "/excelsheetupload/static/js/3.da9045ce.chunk.js",
+    "static/js/3.da9045ce.chunk.js.map": "/excelsheetupload/static/js/3.da9045ce.chunk.js.map",
+    "index.html": "/excelsheetupload/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/excelsheetupload/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/excelsheetupload/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.eb656835.chunk.js.LICENSE.txt": "/excelsheetupload/static/js/2.eb656835.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/excelsheetupload/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c01a4955.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.eb656835.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e3e1815f.chunk.js"
+  ]
+}
